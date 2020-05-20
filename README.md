@@ -1,10 +1,14 @@
 # Complex CF Nexus
 
+Featured addons so far:
 #### Nemesis Hellsmith:
 This addon adds five elemental minotaurs to the game, as well as new weapons
 
 #### Kazumi's CAP:
 Adds new touhous and some powerful items to the game
+
+#### Nexus Alpha
+This is required if you were to run all addons together listed above. Nexus also adds more hard enemis and items.
 
 ## Downloads
 
