@@ -1,5 +1,11 @@
 # Complex CF Nexus
 
+#### Nemesis Hellsmith:
+This addon adds five elemental minotaurs to the game, as well as new weapons
+
+#### Kazumi's CAP:
+Adds new touhous and some powerful items to the game
+
 ## Downloads
 
 ### Main CF files:
@@ -53,4 +59,5 @@ Beta version coming soon!
 
 
 Github page for more info, dl links and Load orders: https://github.com/Fluffx/Nexus-Works/edit/master/README.md
+
 
