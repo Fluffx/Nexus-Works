@@ -48,16 +48,3 @@ Adds new touhous and some powerful items to the game
 15. reimagined-cf-sounds_v1.5.pk3 (Optional sounds)
 16. (Skins)
 
-
-CF Nexus aims to bring 3rd party content to CF 4.1, which was previosuly featured in CF 3.0.
-All featured addons can be run as solo together with CF, 
-except Hellsmith 002 which is meant for LCA (Although the next hellsmith will support both)
-
-The addons included in the Alpha version so far: Nemesis Hellsmith, Kazumi's Complex Addon Pack, Patch content
-
-Beta version coming soon!
-
-
-Github page for more info, dl links and Load orders: https://github.com/Fluffx/Nexus-Works/edit/master/README.md
-
-
