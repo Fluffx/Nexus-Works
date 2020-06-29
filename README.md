@@ -31,7 +31,7 @@ This is required if you were to run all addons together listed above. Nexus also
 ### Optional:
 * Custom Skinpack (A huge collection of skins) https://allfearthesentinel.net/zandronum/download.php?file=custom-skinpack1.5.pk3
 * Ex Custom Skins (More skins) https://allfearthesentinel.net/zandronum/download.php?file=ex-custom-skins_v2.1.pk3
-* Reimagined CF Sounds (alt sounds) https://allfearthesentinel.net/zandronum/download.php?file=reimagined-cf-sounds-v2.0.pk3 
+* Reimagined CF Sounds (alternative sounds) https://allfearthesentinel.net/zandronum/download.php?file=reimagined-cf-sounds-v2.0.pk3 
   Lite Version: https://allfearthesentinel.net/zandronum/download.php?file=reimagined-cf-sounds-v2.0_lite.pk3
 
 ## Load Order
