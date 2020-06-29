@@ -26,12 +26,13 @@ This is required if you were to run all addons together listed above. Nexus also
 ### Addons:
 * Nemesis Hellsmith https://allfearthesentinel.net/zandronum/download.php?file=nemesis_hellsmith002-cf.pk3
 * Kazumi: https://allfearthesentinel.net/zandronum/download.php?file=kazumiscomplexaddonpack-alpha-ver.0.6.pk3
-* Nexus: https://allfearthesentinel.net/zandronum/download.php?file=cf_nexus-alpha-v1.62.pk3
+* Nexus: https://allfearthesentinel.net/zandronum/download.php?file=cf_nexus-alpha-v1.63.pk3
 
 ### Optional:
 * Custom Skinpack (A huge collection of skins) https://allfearthesentinel.net/zandronum/download.php?file=custom-skinpack1.5.pk3
 * Ex Custom Skins (More skins) https://allfearthesentinel.net/zandronum/download.php?file=ex-custom-skins_v2.1.pk3
-* Reimagined CF Sounds (alt sounds) https://allfearthesentinel.net/zandronum/download.php?file=reimagined-cf-sounds_v1.5.pk3
+* Reimagined CF Sounds (alt sounds) https://allfearthesentinel.net/zandronum/download.php?file=reimagined-cf-sounds-v2.0.pk3
+* Lite Version: https://allfearthesentinel.net/zandronum/download.php?file=reimagined-cf-sounds-v2.0_lite.pk3
 
 ## Load Order
 
@@ -47,8 +48,8 @@ This is required if you were to run all addons together listed above. Nexus also
 10. hpbar-v22.1-cf.pk3
 11. nemesis_hellsmith002-cf.pk3
 12. KazumisComplexAddonPack-Alpha-Ver.0.6.pk3
-13. CF_Nexus-Alpha-v1.62.pk3
+13. CF_Nexus-Alpha-v1.63.pk3
 14. newtextcolours_260.pk3
-15. reimagined-cf-sounds_v1.5.pk3 (Optional sounds)
+15. reimagined-cf-sounds-v2.0.pk3 (Optional sounds)
 16. (Skins)
 
