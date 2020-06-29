@@ -50,6 +50,6 @@ This is required if you were to run all addons together listed above. Nexus also
 12. KazumisComplexAddonPack-Alpha-Ver.0.6.pk3
 13. CF_Nexus-Alpha-v1.63.pk3
 14. newtextcolours_260.pk3
-15. reimagined-cf-sounds-v2.0.pk3 (Optional sounds)
+15. reimagined-cf-sounds-v2.0.pk3 (Alt sounds)
 16. (Skins)
 
