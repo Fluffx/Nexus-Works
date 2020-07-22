@@ -26,7 +26,7 @@ This is required if you were to run all addons together listed above. Nexus also
 ### Addons:
 * Nemesis Hellsmith https://allfearthesentinel.net/zandronum/download.php?file=nemesis_hellsmith002-cf-fix.pk3
 * Kazumi: https://allfearthesentinel.net/zandronum/download.php?file=kazumiscomplexaddonpack-alpha-ver.0.6.pk3
-* Nexus: https://allfearthesentinel.net/zandronum/download.php?file=cf_nexus-alpha-v1.7.pk3
+* Nexus: https://allfearthesentinel.net/zandronum/download.php?file=cf_nexus-alpha-v1.71.pk3
 
 ### Optional:
 * Custom Skinpack (A huge collection of skins) https://allfearthesentinel.net/zandronum/download.php?file=custom-skinpack1.5.pk3
@@ -48,7 +48,7 @@ This is required if you were to run all addons together listed above. Nexus also
 10. hpbar-v22.1-cf.pk3
 11. nemesis_hellsmith002-cf-fix.pk3
 12. KazumisComplexAddonPack-Alpha-Ver.0.6.pk3
-13. CF_Nexus-Alpha-v1.7.pk3
+13. CF_Nexus-Alpha-v1.71.pk3
 14. newtextcolours_260.pk3
 15. reimagined-cf-sounds-v2.0.pk3 (Alt sounds)
 16. (Skins)
