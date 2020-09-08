@@ -1,6 +1,9 @@
 # Complex CF Nexus
 
 Featured addons so far:
+#### TXS Reborn:
+Cf's biggest content addon, adding many new monsters, weapons and items
+
 #### Nemesis Hellsmith:
 This addon adds five elemental minotaurs to the game, as well as new weapons
 
@@ -24,9 +27,10 @@ This is required if you were to run all addons together listed above. Nexus also
 * HPBar https://allfearthesentinel.net/zandronum/download.php?file=hpbar-v22.1-cf.pk3
 
 ### Addons:
+* TXS Reborn https://allfearthesentinel.net/zandronum/download.php?file=txs-reborn-v1.0.pk3
 * Nemesis Hellsmith https://allfearthesentinel.net/zandronum/download.php?file=nemesis_hellsmith002-cf-fix.pk3
 * Kazumi: https://allfearthesentinel.net/zandronum/download.php?file=kazumiscomplexaddonpack-alpha-ver.0.6.pk3
-* Nexus: https://allfearthesentinel.net/zandronum/download.php?file=cf_nexus-alpha-v1.72.pk3
+* Nexus: https://allfearthesentinel.net/zandronum/download.php?file=cf_nexus-alpha-v1.8.pk3
 
 ### Optional:
 * Custom Skinpack (A huge collection of skins) https://allfearthesentinel.net/zandronum/download.php?file=custom-skinpack1.5.pk3
@@ -40,16 +44,17 @@ This is required if you were to run all addons together listed above. Nexus also
 2. --Your map wad here--
 3. complex-doom.v26a2.wad
 4. lca-v1.5.9.6.pk3
-5. randomons-v1.2.5.1.1.pk3
+5. randomons-v1.2.5.1.pk3
 6. complex-dust-v1.7.2.pk3
 7. insanelca-custom-v1.3a.pk3
 8. hem-custom-cf-v4.1.pk3
 9. complex-dust-clusterfuck-v4.1.pk3
 10. hpbar-v22.1-cf.pk3
-11. nemesis_hellsmith002-cf-fix.pk3
-12. KazumisComplexAddonPack-Alpha-Ver.0.6.pk3
-13. CF_Nexus-Alpha-v1.72.pk3
-14. newtextcolours_260.pk3
-15. reimagined-cf-sounds-v2.0.pk3 (Alt sounds)
-16. (Skins)
+11. txs-reborn-v1.0.pk3
+12. nemesis_hellsmith002-cf-fix.pk3
+13. KazumisComplexAddonPack-Alpha-Ver.0.6.pk3
+14. CF_Nexus-Alpha-v1.8.pk3
+15. newtextcolours_260.pk3
+16. reimagined-cf-sounds-v2.0.pk3 (Alt sounds)
+17. (Skins)
 
