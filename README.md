@@ -2,20 +2,20 @@
 
 Featured addons so far:
 #### TXS Reborn:
-Cf's biggest content addon, adding many new monsters, weapons and items
-Made By: Titanium
+* Cf's biggest content addon, adding many new monsters, weapons and items
+* Made By: Titanium
 
 #### Nemesis Hellsmith:
-This addon adds five elemental minotaurs to the game, as well as new weapons
-Made By: Empyre and Hellsmith1
+* This addon adds five elemental minotaurs to the game, as well as new weapons
+* Made By: Empyre and Hellsmith1
 
 #### Kazumi's CAP:
-Adds new touhous and some powerful things to the game
-Made By: Shirohima M. Yumikira
+* Adds new touhous and some powerful things to the game
+* Made By: Shirohima M. Yumikira
 
 #### Nexus Alpha
-This is required if you were to run all addons together listed above. Nexus also adds more hard enemis and items.
-Made By: Fluffy and ParadoX
+* This is required if you were to run all addons together listed above. Nexus also adds more hard enemis and items.
+* Made By: Fluffy and ParadoX
 
 ## Downloads
 
