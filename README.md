@@ -31,10 +31,10 @@ Featured addons so far:
 * HPBar https://allfearthesentinel.net/zandronum/download.php?file=hpbar-v22.1-cf.pk3
 
 ### Addons:
-* TXS Reborn https://allfearthesentinel.net/zandronum/download.php?file=txs-reborn-v1.0.pk3
+* TXS Reborn https://allfearthesentinel.net/zandronum/download.php?file=txs-reborn-v1.1.pk3
 * Nemesis Hellsmith https://allfearthesentinel.net/zandronum/download.php?file=nemesis_hellsmith002-cf-fix.pk3
 * Kazumi: https://allfearthesentinel.net/zandronum/download.php?file=kazumiscomplexaddonpack-alpha-ver.0.6.pk3
-* Nexus: https://allfearthesentinel.net/zandronum/download.php?file=cf_nexus-alpha-v1.8.pk3
+* Nexus: https://allfearthesentinel.net/zandronum/download.php?file=cf_nexus-alpha-v1.81.pk3
 
 ### Optional:
 * Custom Skinpack (A huge collection of skins) https://allfearthesentinel.net/zandronum/download.php?file=custom-skinpack1.5.pk3
@@ -54,10 +54,10 @@ Featured addons so far:
 8. hem-custom-cf-v4.1.pk3
 9. complex-dust-clusterfuck-v4.1.pk3
 10. hpbar-v22.1-cf.pk3
-11. txs-reborn-v1.0.pk3
+11. txs-reborn-v1.1.pk3
 12. nemesis_hellsmith002-cf-fix.pk3
 13. KazumisComplexAddonPack-Alpha-Ver.0.6.pk3
-14. CF_Nexus-Alpha-v1.8.pk3
+14. CF_Nexus-Alpha-v1.81.pk3
 15. newtextcolours_260.pk3
 16. reimagined-cf-sounds-v2.0.pk3 (Alt sounds)
 17. (Skins)
