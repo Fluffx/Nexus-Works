@@ -2,7 +2,7 @@
 
 Featured addons so far:
 #### TXS Reborn:
-* Cf's biggest content addon, adding many new monsters, weapons and items
+* CF's biggest content addon, adding many new monsters, weapons and items
 * Made By: Titanium
 
 #### Nemesis Hellsmith:
