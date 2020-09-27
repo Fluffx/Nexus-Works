@@ -34,7 +34,7 @@ Featured addons so far:
 * TXS Reborn https://allfearthesentinel.net/zandronum/download.php?file=txs-reborn-v1.1.pk3
 * Nemesis Hellsmith https://allfearthesentinel.net/zandronum/download.php?file=nemesis_hellsmith002-cf-fix.pk3
 * Kazumi: https://allfearthesentinel.net/zandronum/download.php?file=kazumiscomplexaddonpack-alpha-ver.0.6.pk3
-* Nexus: https://allfearthesentinel.net/zandronum/download.php?file=cf_nexus-alpha-v1.81.pk3
+* Nexus: https://allfearthesentinel.net/zandronum/download.php?file=cf_nexus-alpha-v1.82.pk3
 
 ### Optional:
 * Custom Skinpack (A huge collection of skins) https://allfearthesentinel.net/zandronum/download.php?file=custom-skinpack1.5.pk3
