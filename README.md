@@ -23,7 +23,7 @@ Featured addons so far:
 * Bulletpuff Fix https://allfearthesentinel.net/zandronum/download.php?file=bulletpuff_fix.wad
 * Complex Doom https://allfearthesentinel.net/zandronum/download.php?file=complex-doom.v26a2.pk3
 * LCA https://allfearthesentinel.net/zandronum/download.php?file=lca-v1.5.9.6.pk3
-* RM https://allfearthesentinel.net/zandronum/download.php?file=randomons-v1.2.5.1.1.pk3
+* RM https://allfearthesentinel.net/zandronum/download.php?file=randomons-v1.2.5.1.pk3
 * Dust https://allfearthesentinel.net/zandronum/download.php?file=complex-dust-v1.7.2.pk3
 * InsaneLCA https://allfearthesentinel.net/zandronum/download.php?file=insanelca-custom-v1.3a.pk3
 * HEM-Custom https://allfearthesentinel.net/zandronum/download.php?file=hem-custom-cf-v4.1.pk3
