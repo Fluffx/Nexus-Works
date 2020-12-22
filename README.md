@@ -57,7 +57,7 @@ Featured addons so far:
 11. txs-reborn-v1.1.pk3
 12. nemesis_hellsmith002-cf-fix.pk3
 13. KazumisComplexAddonPack-Alpha-Ver.0.6.pk3
-14. CF_Nexus-Alpha-v1.82.pk3
+14. complex-cf-nexus-alpha_v1.9.pk3
 15. newtextcolours_260.pk3
 16. reimagined-cf-sounds-v2.0.pk3 (Alt sounds)
 17. (Skins)
