@@ -45,4 +45,7 @@ Featured addons so far:
 7. Nemesis_Hellsmith002-cf-fix.pk3
 8. complex-doom-nexus_v1.94.pk3
 9. complex-nexus-data_v0.1.pk3
+Reimagined CF Sounds (optional)
+Reimagined CF Sounds Compatibility Patch (optinal)
+Skins
 
