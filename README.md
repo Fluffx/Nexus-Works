@@ -20,12 +20,11 @@ Featured addons so far:
 ## Downloads
 
 ### Main Files:
-* Bulletpuff Fix https://allfearthesentinel.net/zandronum/download.php?file=bulletpuff_fix.wad
 * Complex Doom https://allfearthesentinel.net/zandronum/download.php?file=complex-doom.v26a2.pk3
 * LCA https://allfearthesentinel.net/zandronum/download.php?file=lca-v1.5.9.6.pk3
 * RM https://allfearthesentinel.net/zandronum/download.php?file=randomons-v1.2.5.1.pk3
 * Nemesis Hellsmith https://allfearthesentinel.net/zandronum/download.php?file=nemesis_hellsmith002-cf-fix.pk3
-* Nexus: https://allfearthesentinel.net/zandronum/download.php?file=complex-doom-nexus_v1.94.pk3
+* Nexus: https://allfearthesentinel.net/zandronum/download.php?file=complex-doom-nexus_v1.95.pk3
 * Nexus Data: https://allfearthesentinel.net/zandronum/download.php?file=complex-nexus-data_v0.2.pk3
 
 ### Optional:
@@ -36,16 +35,15 @@ Featured addons so far:
 
 ## Load Order
 
-1. bulletpuff_fix.wad
-2. --Your map wad here--
-3. complex-doom.v26a2.pk3
-4. lca-v1.5.9.6.pk3
-5. lca-djb-v4.4.3.pk3
-6. randomons-v1.2.5.1.pk3
-7. Nemesis_Hellsmith002-cf-fix.pk3
-8. complex-doom-nexus_v1.94.pk3
-9. complex-nexus-data_v0.2.pk3
-10. Reimagined CF Sounds (optional)
-11. Reimagined CF Sounds Compatibility Patch (optinal)
-12. Skins
+1. --Your map wad here--
+2. complex-doom.v26a2.pk3
+3. lca-v1.5.9.6.pk3
+4. lca-djb-v4.4.3.pk3
+5. randomons-v1.2.5.1.pk3
+6. Nemesis_Hellsmith002-cf-fix.pk3
+7. complex-doom-nexus_v1.95.pk3
+8. complex-nexus-data_v0.2.pk3
+9. Reimagined CF Sounds (optional)
+10. Reimagined CF Sounds Compatibility Patch (optinal)
+11. Skins
 
