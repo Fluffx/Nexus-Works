@@ -26,13 +26,13 @@ Featured addons so far:
 * RM https://allfearthesentinel.net/zandronum/download.php?file=randomons-v1.2.5.1.pk3
 * Nemesis Hellsmith https://allfearthesentinel.net/zandronum/download.php?file=nemesis_hellsmith002-cf-fix.pk3
 * Nexus: https://allfearthesentinel.net/zandronum/download.php?file=complex-doom-nexus_v1.94.pk3
-* Nexus Data: https://allfearthesentinel.net/zandronum/download.php?file=complex-nexus-data_v0.1.pk3
+* Nexus Data: https://allfearthesentinel.net/zandronum/download.php?file=complex-nexus-data_v0.2.pk3
 
 ### Optional:
 * Custom Skinpack (A huge collection of skins) https://allfearthesentinel.net/zandronum/download.php?file=custom-skinpack1.6.pk3
 * Ex Custom Skins (More skins) https://allfearthesentinel.net/zandronum/download.php?file=ex-custom-skins_v4.4.pk3
 * Reimagined CF Sounds (alternative sounds) https://allfearthesentinel.net/zandronum/download.php?file=reimagined-cf-sounds-v3.3.pk3
-* Compatibility patch: https://allfearthesentinel.net/zandronum/download.php?file=reimagined-cf-sounds-nexus-compatibility-v1.4.pk3
+* Compatibility patch: https://allfearthesentinel.net/zandronum/download.php?file=reimagined-cf-sounds-nexus-compatibility-v1.5.pk3
 
 ## Load Order
 
@@ -44,7 +44,7 @@ Featured addons so far:
 6. randomons-v1.2.5.1.pk3
 7. Nemesis_Hellsmith002-cf-fix.pk3
 8. complex-doom-nexus_v1.94.pk3
-9. complex-nexus-data_v0.1.pk3
+9. complex-nexus-data_v0.2.pk3
 10. Reimagined CF Sounds (optional)
 11. Reimagined CF Sounds Compatibility Patch (optinal)
 12. Skins
