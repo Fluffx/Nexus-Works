@@ -31,7 +31,7 @@ Featured addons so far:
 * Custom Skinpack (A huge collection of skins) https://allfearthesentinel.net/zandronum/download.php?file=custom-skinpack1.6.pk3
 * Ex Custom Skins (More skins) https://allfearthesentinel.net/zandronum/download.php?file=ex-custom-skins_v4.4.pk3
 * Reimagined CF Sounds (alternative sounds) https://allfearthesentinel.net/zandronum/download.php?file=reimagined-cf-sounds-v3.3.pk3
-* Compatibility patch: https://allfearthesentinel.net/zandronum/download.php?file=reimagined-cf-sounds-nexus-compatibility-v1.5.pk3
+* Compatibility patch: https://allfearthesentinel.net/zandronum/download.php?file=reimagined-cf-sounds-nexus-compatibility-v1.6b.pk3
 
 ## Load Order
 
