@@ -41,7 +41,7 @@ Featured addons so far:
 4. lca-djb-v4.4.3.pk3
 5. randomons-v1.2.5.1.pk3
 6. Nemesis_Hellsmith002-cf-fix.pk3
-7. complex-doom-nexus_v1.95.pk3
+7. complex-doom-nexus_v1.95a.pk3
 8. complex-nexus-data_v0.2.pk3
 9. Reimagined CF Sounds (optional)
 10. Reimagined CF Sounds Compatibility Patch (optinal)
