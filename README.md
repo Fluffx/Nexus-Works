@@ -24,7 +24,7 @@ Featured addons so far:
 * LCA https://allfearthesentinel.net/zandronum/download.php?file=lca-v1.5.9.6.pk3
 * RM https://allfearthesentinel.net/zandronum/download.php?file=randomons-v1.2.5.1.pk3
 * Nemesis Hellsmith https://allfearthesentinel.net/zandronum/download.php?file=nemesis_hellsmith002-cf-fix.pk3
-* Nexus: https://allfearthesentinel.net/zandronum/download.php?file=complex-doom-nexus_v1.95.pk3
+* Nexus: https://allfearthesentinel.net/zandronum/download.php?file=complex-doom-nexus_v1.95a.pk3
 * Nexus Data: https://allfearthesentinel.net/zandronum/download.php?file=complex-nexus-data_v0.2.pk3
 
 ### Optional:
